@@ -1,7 +1,7 @@
 # 📊 LinkedIn Job Postings Analyst
 
 
-![LinkedIn Job Postings Dashboard Demo](linkedin-job-posting.gif)
+![LinkedIn Job Postings Dashboard Demo](linkedin_job_postings)
 
 An end-to-end Data Analytics project analyzing **2023–2024 LinkedIn job postings in the United States**.
 
@@ -182,7 +182,7 @@ Special thanks to **Emre Hocam** for his valuable feedback throughout the projec
 
 The complete project presentation is available in this repository:
 
-`LinkedIn_Job_Posting_END_v2.pdf`
+`LinkedIn_Job_Posting.pdf`
 
 ---
 
